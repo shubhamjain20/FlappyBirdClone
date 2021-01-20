@@ -1,0 +1,19 @@
+
+flapper.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bird
+  rotate: false
+  xy: 1, 1
+  size: 136, 96
+  orig: 136, 96
+  offset: 0, 0
+  index: -1
+bird2
+  rotate: false
+  xy: 139, 1
+  size: 136, 96
+  orig: 136, 96
+  offset: 0, 0
+  index: -1
