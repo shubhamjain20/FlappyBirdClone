@@ -1,4 +1,4 @@
 # FlappyBirdClone
-What I learned-
--Enhanced Java skills.
+What I learned-<br/>
+-Enhanced Java skills.<br/>
 -LibGdx (Library for Game development in Java).
